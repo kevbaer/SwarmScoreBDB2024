@@ -1,5 +1,7 @@
 # Swarm Score!
 
+Swarm Score is a quantitative assessment of the age-old football maxim of rallying to the football and swarming the ball carrier. The statistic is formed by comparing each defender's bivariate normal spatial influence probability density function against the ball carrier's spatial influence model to determine how many defenders are swarming the ball carrier to maximize tackling efficiency. Swarm Score proves to be an effective success measure of a variety of tackling statistics such as YAC allowed, YAC over expected allowed, seconds from catch till tackle, EPA allowed, and many more. Finally, Swarm Score is shown to be a much better predictor of future YAC allowed than prior YAC allowed performance, demonstrating it's stability and effective value.
+
 By Kevin Baer, UCLA Undergraduate Student
 
 Feel free to reach out to me with any questions or connect with me on [LinkedIn](https://www.linkedin.com/in/kevinmbaer/)!
