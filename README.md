@@ -1,3 +1,10 @@
+# Swarm Score!
+
+By Kevin Baer, UCLA Undergraduate Student
+
+Feel free to reach out to me with any questions or connect with me on ![linkedin](https://www.linkedin.com/in/kevinmbaer/)
+
+
 # Citations
 
 Arjun Menon. (2023). QB Air Yards when facing MOF Open Coverages Since 2015. Twitter. [https://twitter.com/arjunmenon100/status/1713953494338511180/photo/1]
