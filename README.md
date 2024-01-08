@@ -2,7 +2,9 @@
 
 By Kevin Baer, UCLA Undergraduate Student
 
-Feel free to reach out to me with any questions or connect with me on [linkedin](https://www.linkedin.com/in/kevinmbaer/)
+Feel free to reach out to me with any questions or connect with me on [LinkedIn](https://www.linkedin.com/in/kevinmbaer/)!
+
+In this Github, you will find my code, commentary, and datasets.
 
 
 # Citations
